@@ -1,0 +1,288 @@
+MAC2312
+0001	LEC	10	
+	
+M 8:00am - 8:50am - MCH 0301
+TTh 8:00am - 9:15am - MCH 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0002	LEC	8	
+	
+M 8:00am - 8:50am - MCH 0222
+TTh 8:00am - 9:15am - MCH 0222
+	Main, Tallahassee	Tallahassee	4
+
+	
+0003	LEC	7	
+	
+M 8:00am - 8:50am - LOV 0107
+TTh 8:00am - 9:15am - LOV 0107
+	Main, Tallahassee	Tallahassee	4
+
+	
+0004	LEC	6	
+	
+M 8:00am - 8:50am - LOV 0231
+TTh 8:00am - 9:15am - LOV 0231
+	Main, Tallahassee	Tallahassee	4
+
+	
+0007	LEC	3	
+	
+M 9:20am - 10:10am - MCH 0301
+TTh 9:45am - 11:00am - MCH 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0008	LEC	3	
+	
+M 9:20am - 10:10am - MCH 0222
+TTh 9:45am - 11:00am - MCH 0222
+	Main, Tallahassee	Tallahassee	4
+
+	
+0012	LEC	7	
+	
+M 10:40am - 11:30am - LOV 0107
+TTh 9:45am - 11:00am - LOV 0107
+	Main, Tallahassee	Tallahassee	4
+
+    Special Topic: Honors
+
+	
+0015	LEC	2	
+	
+M 12:00pm - 12:50pm - MCH 0301
+TTh 11:35am - 12:50pm - MCH 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0017	LEC	1	
+	
+M 12:00pm - 12:50pm - LOV 0107
+TTh 11:35am - 12:50pm - LOV 0107
+	Main, Tallahassee	Tallahassee	4
+
+	
+0021	LEC	3	
+	
+M 1:20pm - 2:10pm - MCH 0301
+TTh 1:20pm - 2:35pm - MCH 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0022	LEC	2	
+	
+M 1:20pm - 2:10pm
+TTh 1:20pm - 2:35pm
+	Main, Tallahassee	Tallahassee	4
+
+	
+0024	LEC	2	
+	
+M 1:20pm - 2:10pm - LOV 0301
+TTh 1:20pm - 2:35pm - LOV 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0027	LEC	2	
+	
+M 3:05pm - 3:55pm - MCH 0301
+TTh 3:05pm - 4:20pm - MCH 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0028	LEC	5	
+	
+M 3:05pm - 3:55pm - LOV 0102
+TTh 3:05pm - 4:20pm - LOV 0102
+	Main, Tallahassee	Tallahassee	4
+
+	
+0029	LEC	3	
+	
+M 3:05pm - 3:55pm - LOV 0107
+TTh 3:05pm - 4:20pm - LOV 0107
+	Main, Tallahassee	Tallahassee	4
+
+	
+0030	LEC	3	
+	
+M 3:05pm - 3:55pm - LOV 0301
+TTh 3:05pm - 4:20pm - LOV 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0034	LEC	4	
+	
+M 4:50pm - 5:40pm - MCH 0301
+TTh 4:50pm - 6:05pm - MCH 0301
+	Main, Tallahassee	Tallahassee	4
+
+	
+0035	LEC	3	
+	
+M 4:50pm - 5:40pm - HTL 0217
+TTh 4:50pm - 6:05pm - HTL 0217
+	Main, Tallahassee	Tallahassee	4
+
+	
+0036	LEC	4	
+	
+M 4:50pm - 5:40pm - LOV 0107
+TTh 4:50pm - 6:05pm - LOV 0107
+	Main, Tallahassee	Tallahassee	4
+COP3330
+0001	LEC	27	
+Shangqian Gao
+	
+MWF 9:20am - 10:10am - BEL 0180
+F 10:40am - 11:30am - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0002	LEC	16	
+Robert Myers
+	
+MW 1:20pm - 2:35pm - HWC 3100
+Th 4:50pm - 5:40pm - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0003	LEC	22	
+Robert Myers
+	
+MW 3:05pm - 4:20pm - MCH 0201
+Th 8:00am - 8:50am - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0004	LEC	22	
+Robert Myers
+	
+MW 1:20pm - 2:35pm - HWC 3100
+Th 5:55pm - 6:45pm - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0005	LEC	24	
+Robert Myers
+	
+MW 1:20pm - 2:35pm - HWC 3100
+Th 7:00pm - 7:50pm - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0006	LEC	13	
+Robert Myers
+	
+MW 1:20pm - 2:35pm - HWC 3100
+W 4:50pm - 5:40pm - MCH 0315A
+	Main, Tallahassee	Tallahassee	3
+
+	
+0008	LEC	20	
+Robert Myers
+	
+MW 3:05pm - 4:20pm - MCH 0201
+Th 9:45am - 10:35am - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0009	LEC	9	
+Robert Myers
+	
+MW 3:05pm - 4:20pm - MCH 0201
+Th 11:35am - 12:25pm - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0013	LEC	23	
+Shangqian Gao
+	
+MWF 9:20am - 10:10am - BEL 0180
+F 12:00pm - 12:50pm - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0014	LEC	29	
+Shangqian Gao
+	
+MWF 9:20am - 10:10am - BEL 0180
+F 1:20pm - 2:10pm - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0015	LEC	28	
+Shangqian Gao
+	
+MWF 9:20am - 10:10am - BEL 0180
+F 3:05pm - 3:55pm - MCH 0202
+	Main, Tallahassee	Tallahassee	3
+
+	
+0020	LEC	88	
+David Gaitros
+	
+	Online	Tallahassee	3
+
+    Reserve Caps:
+    12 of 100 reserved seats filled for requirement: Seats are reserved for students in the RC_PLN_CB_NO_CompSci_PC Reserve Capacity Group
+AMH2020
+0001	LEC	64	
+Christine Rizzi
+	
+TTh 1:20pm - 2:35pm - WJB 2005
+	Main, Tallahassee	Tallahassee	3
+
+	
+0002	LEC	97	
+Christine Rizzi
+	
+TTh 3:05pm - 4:20pm - WJB 2005
+	Main, Tallahassee	Tallahassee	3
+
+	
+0003	LEC	105	
+Justin Vos
+	
+MWF 12:00pm - 12:50pm - DIF 0201
+	Main, Tallahassee	Tallahassee	3
+
+	
+0004	LEC	114	
+Justin Vos
+	
+MWF 1:20pm - 2:10pm - BEL 0180
+	Main, Tallahassee	Tallahassee	3
+
+	
+0005	LEC	45	
+Justin Vos
+	
+	Online	Tallahassee	3
+
+	
+0006	LEC	48	
+Vincent Mikkelsen
+	
+T 5:30pm - 8:30pm - BEL 0001
+	Main, Tallahassee	Tallahassee	3
+POS1041
+0001	LEC	865	
+Karen Cyphers
+	
+	Online	Tallahassee	3
+
+    Reserve Caps:
+    8 of 250 reserved seats filled for requirement: Seats are reserved for students in the RC_PLN_CB_PoS_ISS_AfAS_SoW_SSE Reserve Capacity Group
+
+	
+0002	LEC	46	
+Andrew Ballard
+	
+TTh 11:35am - 12:50pm - HCB 0212
+	Main, Tallahassee	Tallahassee	3
+
+    Reserve Caps:
+    3 of 49 reserved seats filled for requirement: Seats are reserved for students in the RC_PLN_CB_PoS_UG&Pre Reserve Capacity Group
